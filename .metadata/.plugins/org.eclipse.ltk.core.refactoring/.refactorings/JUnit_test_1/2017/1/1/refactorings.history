@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;JUnit_test_1/src/main/java/java/JUnit_test_1/App.java&apos; to &apos;MessageUtil.java&apos;" description="Rename resource &apos;App.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/java/JUnit_test_1/App.java" name="MessageUtil.java" stamp="1483616454269" updateReferences="true"/>
+</session>
