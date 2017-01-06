@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JunitTest1" project="JunitSuiteTest" tests="2" started="2" failures="0" errors="0" ignored="0">
+  <testsuite name="src.JunitTest1" time="0.003">
+    <testcase name="testPrepareMyBag" classname="src.JunitTest1" time="0.001"/>
+    <testcase name="arrayLength" classname="src.JunitTest1" time="0.001"/>
+  </testsuite>
+</testrun>

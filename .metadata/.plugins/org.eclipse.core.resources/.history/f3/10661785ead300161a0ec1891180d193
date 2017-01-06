@@ -1,0 +1,13 @@
+package junit.Suit_Test_1;
+
+/**
+ * Hello world!
+ *
+ */
+public class MessageUtil 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

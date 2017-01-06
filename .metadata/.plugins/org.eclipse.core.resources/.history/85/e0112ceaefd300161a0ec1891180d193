@@ -1,0 +1,23 @@
+package src;
+
+
+import static org.junit.Assert.*;
+import org.junit.Test;
+
+public class JunitTest1 {
+
+   FirstDayAtSchool school = new FirstDayAtSchool();
+   String[] bag = {"Books", "Notebooks", "Pens"};
+   
+   @Test
+   public void testPrepareMyBag() {	
+      System.out.println("Inside testPrepareMyBag()");    
+      assertArrayEquals(bag, school.prepareMyBag());     
+   }
+   
+   @Test
+   public void arrayLength() {
+	   System.out.println("Array Length : ");
+	   assertEquals(2, school.prepareMyBag().length);
+   }
+}
