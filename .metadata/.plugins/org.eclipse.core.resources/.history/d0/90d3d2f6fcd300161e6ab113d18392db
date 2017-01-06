@@ -1,0 +1,38 @@
+package paramTest.JunitParamterTest1;
+
+import junit.framework.Test;
+import junit.framework.TestCase;
+import junit.framework.TestSuite;
+
+/**
+ * Unit test for simple App.
+ */
+public class OddNumberCheckerTest 
+    extends TestCase
+{
+    /**
+     * Create the test case
+     *
+     * @param testName name of the test case
+     */
+    public OddNumberCheckerTest( String testName )
+    {
+        super( testName );
+    }
+
+    /**
+     * @return the suite of tests being tested
+     */
+    public static Test suite()
+    {
+        return new TestSuite( OddNumberCheckerTest.class );
+    }
+
+    /**
+     * Rigourous Test :-)
+     */
+    public void testApp()
+    {
+        assertTrue( true );
+    }
+}

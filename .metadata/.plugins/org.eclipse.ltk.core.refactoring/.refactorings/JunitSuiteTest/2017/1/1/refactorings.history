@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete 5 elements from project &apos;JunitSuiteTest&apos;&#x0D;&#x0A;- Original project: &apos;JunitSuiteTest&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     FirstDayAtSchool.class&#x0D;&#x0A;     JunitTest1.class&#x0D;&#x0A;     JunitTest2.class&#x0D;&#x0A;     JunitTestSuite.class&#x0D;&#x0A;     JunitTestSuiteRunner.class" description="Delete elements" element1="src/JunitTestSuite.class" element2="src/JunitTest2.class" element3="src/FirstDayAtSchool.class" element4="src/JunitTest1.class" element5="src/JunitTestSuiteRunner.class" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="5" stamp="1483696157288" subPackages="false" version="1.0"/>
+</session>

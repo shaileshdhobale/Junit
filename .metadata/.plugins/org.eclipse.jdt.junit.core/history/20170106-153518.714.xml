@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="JunitSuiteTest1 (1)" project="JunitSuiteTest1" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="JunitTestSuite" incomplete="true">
+    <testsuite name="JunitTest1" incomplete="true">
+      <testcase name="testPrepareMyBag" classname="JunitTest1" incomplete="true"/>
+    </testsuite>
+    <testsuite name="JunitTest2" incomplete="true">
+      <testcase name="testAddPencils" classname="JunitTest2" incomplete="true"/>
+    </testsuite>
+  </testsuite>
+  <testsuite name="JunitTest2" time="0.0">
+    <testcase name="testAddPencils" classname="JunitTest2" time="0.0"/>
+  </testsuite>
+  <testsuite name="JunitTest1" time="0.001">
+    <testcase name="testPrepareMyBag" classname="JunitTest1" time="0.0"/>
+  </testsuite>
+</testrun>
